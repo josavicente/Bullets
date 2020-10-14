@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Bullets makes easy track your expense in all of your subscriptions
+app_description                           : Actualmente existen varias aplicaciones que te permite gestionar tus subscripciones. La diferencia es que Bullets consta de una versión gratuíta totalmente funcional y sin límites para las funciones previamente descritas. Bullets está en fase beta y su lanzamiento está por determinar.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,44 +34,44 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages.
+  - title                                 : Diseño minimalista
+    description                           : Apariencia limpia y sencilla. Personalización de los colores
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Darkmode
+    description                           : Modo oscuro sincronizado con el sistema
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Alerts
+    description                           : Notificaciones de pago con antelación y hora personalizadas
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Currency conversion
+    description                           : Conversión a la moneda personalizada del usuario
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
+  - title                                 : 32 monedas soportadas
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
+  - title                                 : Listado de subscripciones pre instaladas
     description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
+  - title                                 : Creación ilimitada de subscripciones personalizadas
+    description                           : Crea tantas subscripciones como necesites. Personaliza el color, elije su tipo, forma de pago y ciclo.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Categorización de subscripciones
+    description                           : Elige entre varias categorias para organizar tus subscripciones.
     fontawesome_icon_name                 : link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Resúmen mensual
+    description                           : Información del pago realizado hasta el momento y el total del mes en curso.
     fontawesome_icon_name                 : info-circle
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
+  - title                                 : Widget
+    description                           : Siempre al día de la siguiente subscripción que será cobrada.
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
