@@ -4,14 +4,14 @@ page_title                                : Bullets                             
 # App Info
 ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
-appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link                             :                                            # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
 presskit_download_link                    :                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Bullets                                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Free & Pro version (coming soon...)                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Con bullets controla el día a día de tus subscripciones.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
@@ -36,7 +36,7 @@ features                                  :
 
   - title                                 : Diseño minimalista
     description                           : Apariencia limpia y sencilla. Personalización de los colores
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : simplybuilt
     
   - title                                 : Darkmode
     description                           : Modo oscuro sincronizado con el sistema
@@ -44,35 +44,35 @@ features                                  :
 
   - title                                 : Alerts
     description                           : Notificaciones de pago con antelación y hora personalizadas
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : user-clock
 
   - title                                 : Currency conversion
     description                           : Conversión a la moneda personalizada del usuario
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : exchange-alt
 
   - title                                 : 32 monedas soportadas
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : coins
   
   - title                                 : Listado de subscripciones pre instaladas
     description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : th-list
 
   - title                                 : Creación ilimitada de subscripciones personalizadas
     description                           : Crea tantas subscripciones como necesites. Personaliza el color, elije su tipo, forma de pago y ciclo.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+    fontawesome_icon_name                 : magic
 
   - title                                 : Categorización de subscripciones
     description                           : Elige entre varias categorias para organizar tus subscripciones.
-    fontawesome_icon_name                 : link
+    fontawesome_icon_name                 : tape
 
   - title                                 : Resúmen mensual
     description                           : Información del pago realizado hasta el momento y el total del mes en curso.
-    fontawesome_icon_name                 : info-circle
+    fontawesome_icon_name                 : chart-line
 
   - title                                 : Widget
     description                           : Siempre al día de la siguiente subscripción que será cobrada.
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    fontawesome_icon_name                 : mobile-alt
 
 
 
