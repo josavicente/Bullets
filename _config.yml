@@ -36,7 +36,7 @@ features                                  :
 
   - title                                 : Diseño minimalista
     description                           : Apariencia limpia y sencilla. Personalización de los colores
-    fontawesome_icon_name                 : simplybuilt
+    fontawesome_icon_name                 : grip-lines
     
   - title                                 : Darkmode
     description                           : Modo oscuro sincronizado con el sistema
