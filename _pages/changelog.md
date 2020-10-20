@@ -1,10 +1,10 @@
 ---
 layout: page
-title: What's New
+title: Updates
 include_in_header: true
 ---
 
-### `Latest`
+### `Lo último`
 # **Version 1.0**
 Versión de lanzamiento: 
 - Diseño minimalista
