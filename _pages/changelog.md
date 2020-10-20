@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Updates
+title: Novedades
 include_in_header: true
 ---
 
