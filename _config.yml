@@ -38,15 +38,15 @@ features                                  :
     description                           : Apariencia limpia y sencilla. Personalización de los colores
     fontawesome_icon_name                 : grip-lines
     
-  - title                                 : Darkmode
+  - title                                 : Modo Oscuro
     description                           : Modo oscuro sincronizado con el sistema
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Alerts
+  - title                                 : Notificaciones
     description                           : Notificaciones de pago con antelación y hora personalizadas
     fontawesome_icon_name                 : user-clock
 
-  - title                                 : Currency conversion
+  - title                                 : Conversión de moneda
     description                           : Conversión a la moneda personalizada del usuario
     fontawesome_icon_name                 : exchange-alt
 
@@ -70,7 +70,7 @@ features                                  :
     description                           : Información del pago realizado hasta el momento y el total del mes en curso.
     fontawesome_icon_name                 : chart-line
 
-  - title                                 : Widget
+  - title                                 : Widgets
     description                           : Siempre al día de la siguiente subscripción que será cobrada.
     fontawesome_icon_name                 : mobile-alt
 
